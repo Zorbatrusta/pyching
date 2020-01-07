@@ -1,0 +1,103 @@
+ 
+# pyching
+Programa en python para la tirada de I Ching y su interpretación basado en la traducción de R.H. Wilhem del Libro de las Mutaciones
+http://libroesoterico.com/biblioteca/I-Ching/index.php
+
+Las líneas se cuentan desde abajo hacia arriba. El trazo
+del comienzo es, pues, el de más abajo. Si el consultante obtiene
+un siete, se trata por cierto de un trazo fuerte que se toma
+en consideración en cuanto a la estructura del signo en su
+totalidad, pero este trazo no se mueve y no tiene, por tanto,
+significación individual. Si en cambio, el consultante obtiene
+un nueve, el trazo se mueve, destacándose con ello su significación
+peculiar y debiendo tenérselo en cuenta y meditarse sobre él, en
+calidad de trazo individual, si el trazo es seis también se mueve.
+Lo mismo vale en cuanto a las demás líneas fuertes en todo el libro.
+En cada uno de los hexagramas las dos líneas de abajo significan la
+tierra, las del medio la región del mundo humano, las de arriba el cielo.
+
+El funcionamiento del programa es muy sencillo solo hay que ejecutar el archivo  	generador-hexagrama-3.0.py
+para realizar la tirada del I Ching mediante software en una terminal de linux.
+
+$ python generador-hexagrama-3.0.py
+
+Luego mirar en el libro el hexagrama generado, sus lineas mutantes y el hexagrama mutado.
+
+También esta la opción de realizar la tirada con pyching-libro-primero-tirada-v3.py aunque todavía faltan hexagramas
+por copiar en la base de datos (db)
+
+Ej: Guerra Iran EEUU
+pyching # python pyching-libro-primero-tirada-v3.py 
+===============================I Ching================================                                                                    
+ Dijo el Maestro ¿no es el libro de las mutaciones lo Supremo?.                                                                           
+ El Libro de las Mutaciones es la obra mediante la cual los sabios                                                                        
+ santos elevaron su modo de ser y ampliaron su campo de acción.                                                                           
+                                                                                                                                          
+ Haz una pregunta en voz alta al oráculo                                                                                                  
+                                                                                                                                          
+ Tienes 13 segundos                                                                                                                       
+                                                                                                                                          
+ Si no haces ninguna pregunta el oráculo te guiará igualmente                                                                             
+                                                                                                                                          
+ Primera tirada...
+
+8
+
+ Segunda tirada...
+
+7
+
+ Tercera tirada...
+
+6
+
+ Cuarta tirada...
+
+8
+
+ Quinta tirada...
+
+9
+
+ Sexta tirada...
+
+7
+
+Trigrama inferior K'an, Lo Abismal, el agua
+[8, 7, 6]
+
+Trigrama superior Sun, Lo Suave, el viento
+[8, 9, 7]
+
+Tu hexagrama principal es : 
+
+7 _______
+9 _______
+8 ___ ___
+6 ___ ___
+7 _______
+8 ___ ___
+
+Las líneas se cuentan desde abajo hacia arriba. El trazo
+del comienzo es, pues, el de más abajo. Si el consultante obtiene
+un siete, se trata por cierto de un trazo fuerte que se toma
+en consideración en cuanto a la estructura del signo en su
+totalidad, pero este trazo no se mueve y no tiene, por tanto,
+significación individual. Si en cambio, el consultante obtiene
+un nueve, el trazo se mueve, destacándose con ello su significación
+peculiar y debiendo tenérselo en cuenta y meditarse sobre él, en
+calidad de trazo individual.
+En cada uno de los hexagramas las dos líneas de abajo significan
+la tierra, las del medio la región del mundo humano, las de arriba el cielo.
+
+
+
+Tu hexagrama mutado que significa futuro o devenir es : 
+
+ _______
+ ___ ___
+ ___ ___
+ _______
+ _______
+ ___ ___
+

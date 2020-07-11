@@ -15,3 +15,10 @@ Lo mismo vale en cuanto a las demás líneas fuertes en todo el libro.
 En cada uno de los hexagramas las dos líneas de abajo significan la
 tierra, las del medio la región del mundo humano, las de arriba el cielo.
 
+ "Enlace del I Ching escaneado: www.libroesoterico.com/biblioteca/I-Ching/I-Ching-Libro_de_las_Mutaciones-r-h-wilhem.pdf "
+ "Enlace del Tao te king escaneado: www.libroesoterico.com/biblioteca/I-Ching/TaoTeKing-LaoTse-RH-Wilhem.pdf "
+
+ "Consejo: lee la parte del libro con tu propia interpretación, estado emocional, vivencias..."
+ "         aunque no entiendas algo sigue leyendo y te aconsejará en algún momento o reflejará tu realidad"
+
+
